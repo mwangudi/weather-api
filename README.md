@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
@@ -68,4 +67,6 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 =======
 # weather-api
 Weather API built on Laravel
->>>>>>> 1fcdbf6d4caa353aac28950d3f1c01351f37d853
+
+![Screenshot 2025-01-22 at 19 00 02](https://github.com/user-attachments/assets/0e71b978-56a6-4f35-8b9d-bca3b30be6b5)
+
